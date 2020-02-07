@@ -1,7 +1,7 @@
 {
   "name": "hexlet-jest",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repository was prepared as part of the node.js course",
   "main": "index.js",
   "files": [
     "dist"
@@ -9,6 +9,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "hexlet",
+    "Jest",
+    "JavaScript",
+    "node.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/polkovnik8976/hexlet-jest.git"
