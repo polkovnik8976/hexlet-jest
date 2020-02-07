@@ -1,4 +1,6 @@
-# hexlet-jest
+<h1>hexlet-jest</h1>
+
+<h2>This repository was prepared as part of the node.js course on the site <a href="https://ru.hexlet.io/?ref=248420">Hexlet</a></h2>
 
 <p>
 
