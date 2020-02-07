@@ -8,4 +8,4 @@
 
 </p>
 
-<p><a href="https://asciinema.org/a/Y4OIqpCTVISbb6xyDX5DLAEzV" target="_blank"><img src="https://asciinema.org/a/Y4OIqpCTVISbb6xyDX5DLAEzV.svg" /></a></p>
+<p><script id="asciicast-Y4OIqpCTVISbb6xyDX5DLAEzV" src="https://asciinema.org/a/Y4OIqpCTVISbb6xyDX5DLAEzV.js" async></script></p>
